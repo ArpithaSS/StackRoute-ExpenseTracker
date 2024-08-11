@@ -1,0 +1,29 @@
+
+.customCSS {
+  border: none;
+  border-radius: 0;
+  border-bottom: 1px solid rgb(187, 184, 184);
+}
+
+.income {
+  border-right: 10px solid green !important;
+}
+.expense {
+  border-right: 10px solid red !important;
+}
+
+.transactionDate {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+
+.day{
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  background-color: rgb(80, 178, 224);
+}
+
+.background-css{
+  background-color: lightgray;
+}
